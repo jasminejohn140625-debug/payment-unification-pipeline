@@ -1,1 +1,33 @@
+//payment_v1.json
+{
+  "version": "v1",
+  "fields": [
+    "event_id",
+    "payment_type",
+    "customer_id",
+    "amount",
+    "currency",
+    "event_timestamp",
+    "payment_method",
+    "status",
+    "source_system",
+    "contract_version"
+  ]
+}
 
+//payment_v2.json
+{
+  "version": "v1",
+  "fields": [
+    "event_id",
+    "payment_type",
+    "customer_id",
+    "amount",
+    "currency",
+    "event_timestamp",
+    "payment_method",
+    "status",
+    "source_system",
+    "contract_version"
+  ]
+}
